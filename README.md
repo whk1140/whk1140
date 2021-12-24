@@ -1,9 +1,8 @@
 ### Hi there 👋
-<a href="https://velog.io/@whk1140">
-    <img 
-        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@본인벨로그아이디"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+![whk1140's GitHub stats](https://github-readme-stats.vercel.app/api?username=whk1140&show_icons=true&theme=gruvbox_light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whk1140&layout=compact&theme=gruvbox_light&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanhyuk93)](https://solved.ac/chanhyuk93)
+
 
 <!--
 **whk1140/whk1140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
